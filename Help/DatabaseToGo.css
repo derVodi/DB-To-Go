@@ -1,0 +1,11 @@
+body {font-family: Calibri, Tahoma, Arial, Sans; font-size: 11Pt;}
+.Title {font-size: 17pt; margin-bottom: 0.66em; padding-bottom: 0.33em; border-bottom: 1px solid #C6C6C6;}
+h1 {font-size: 14pt; margin: 0;}
+h2 {font-size: 13pt; margin: 0;}
+h3 {font-size: 11pt; margin: 0;}
+p {margin: 0; padding: 0;}
+table {border-collapse: collapse;}
+td {border: 1px solid black; padding: 0.2em;}
+.col-1 {font-weight: bold;}
+h1{color:#003600;}
+h2,h3,h4,h5,h6{color:#366092;}

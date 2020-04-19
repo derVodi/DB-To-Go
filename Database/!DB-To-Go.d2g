@@ -1,0 +1,22 @@
+﻿[Settings]
+OptimizeMetadata=True
+ThumbnailHeight=268
+UseEmbeddedThumbnails=False
+NameClickAction="{LinkedFile}"
+ThumbnailDoubleClickAction="{LinkedFile}"
+LinkedPathClickAction="Explorer.exe" /select,"{LinkedFile}"
+
+[Structures]
+Genre Year
+Year Genre
+Director Year
+MainActor Year
+#new
+
+[MainCustomTools]
+Wikipedia="http://de.wikipedia.org?search={FileNameWithoutExtension}"
+Paint="%windir%\system32\mspaint.exe" "{File}"
+
+[CompareCustomTools]
+Explorer="Explorer.exe" /select,"{File}"
+Image="https://www.google.de/search?tbm=isch&q={FileNameWithoutExtension}%20dvd"
